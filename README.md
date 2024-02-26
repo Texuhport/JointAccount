@@ -1,3 +1,4 @@
+
 <div align="center">
     
 # Decentralized Joint Account
@@ -60,3 +61,5 @@ In this file, I create a basic Joint Account smart contract in Solidity that all
 ## All Test Transactions - Ganache
 
 ![image](Execution_Results/GanacheTransactions.png)
+
+
